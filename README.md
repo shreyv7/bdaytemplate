@@ -1,4 +1,4 @@
-	#🚀  Bday Wish Template
+	🚀  Bday Wish Template
 
 A modern, responsive web application built with React, TypeScript, Vite, and Tailwind CSS, featuring a clean UI powered by shadcn-ui components.
 
